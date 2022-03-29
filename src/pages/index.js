@@ -1,5 +1,7 @@
 const Index = () => (
-<h1>teste</h1>
-)
+  <>
+    <h1>My Boleirplate Chakra UI</h1>;
+  </>
+);
 
-export default Index
+export default Index;
